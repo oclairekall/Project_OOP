@@ -1,1 +1,2 @@
 print("AlpineSkiing")
+print("ok")
